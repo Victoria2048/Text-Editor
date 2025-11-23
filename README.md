@@ -1,2 +1,1 @@
-"# Text-Editor" 
-"# Text-Editor" 
+This is a text editor, hopefully self-explanatory.
